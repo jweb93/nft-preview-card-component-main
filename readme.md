@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](hhttps://github.com/jweb93/nft-preview-card-component-main)
+- Live Site URL: [Add live site URL here](https://jweb93.github.io/nft-preview-card-component-main/)
 
 ## My process
 
@@ -63,7 +63,7 @@ I learned how to add a little (background-size: scale-down;) icon (icon-view.svg
 
 ## Author
 
-- Website - not yet
+- Website - [Javier Rojas](https://jweb93.github.io/)
 - Frontend Mentor - [@jweb93](https://www.frontendmentor.io/profile/jweb93)
 - Twitter - [@javier_vln](https://twitter.com/javier_vln)
 
