@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Roadmap
 
-- Notion: https://www.notion.so/NFT-preview-card-component-b91e8ca02e89466799fee4d6480e7bab
+- Notion: https://slash-carbon-764.notion.site/NFT-preview-card-component-b91e8ca02e89466799fee4d6480e7bab
 
 ### Built with
 
