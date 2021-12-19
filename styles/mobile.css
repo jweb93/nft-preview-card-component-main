@@ -52,7 +52,7 @@ main{
         .card__img{
             width: 362px;
             height: 362px;
-            background-image: url("/assets/image-equilibrium.jpg");
+            background-image: url("https://github.com/jweb93/nft-preview-card-component-main/blob/main/assets/image-equilibrium.jpg?raw=true");
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
@@ -67,9 +67,9 @@ main{
 
             .card__img a:hover{
                 background-color: var(--mid-cyan);
-                background-image: url("/assets/icon-view.svg");
+                background-image: url("https://raw.githubusercontent.com/jweb93/nft-preview-card-component-main/b50828aee2abe6951f2aa014cff4ce0366e4d4e8/assets/icon-view.svg");
                 background-repeat: no-repeat;
-                background-size: scale-down;
+                background-size: small;
                 background-position: center;
             }
         
@@ -106,7 +106,7 @@ main{
                 align-items: center;
             }
                 .card__metrics--ETH span{
-                    background-image: url("/assets/icon-ethereum.svg");
+                    background-image: url("https://raw.githubusercontent.com/jweb93/nft-preview-card-component-main/main/assets/icon-ethereum.svg");
                     background-repeat: no-repeat;
                     background-size: contain;
                     background-position: center;
@@ -123,7 +123,7 @@ main{
                 align-items: center;
             }
                 .card__metrics--days span{
-                    background-image: url("/assets/icon-clock.svg");
+                    background-image: url("https://raw.githubusercontent.com/jweb93/nft-preview-card-component-main/b50828aee2abe6951f2aa014cff4ce0366e4d4e8/assets/icon-clock.svg");
                     background-repeat: no-repeat;
                     background-size: contain;
                     background-position: center;
@@ -159,7 +159,7 @@ main{
                 color: var(--full-cyan);
             }
             .card__author span{
-                background-image: url("/assets/image-avatar.png");
+                background-image: url("https://github.com/jweb93/nft-preview-card-component-main/blob/main/assets/image-avatar.png?raw=true");
                 background-repeat: no-repeat;
                 background-size: contain;
                 background-position: center;
